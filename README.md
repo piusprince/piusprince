@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hello World 👋
 I am Pius Prince, a fullstack software engineer from Ghana
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
+- 🔭 Working on multiple frontend and backend projects using React and Nodejs
 
 <br>
 ## Connect with me
