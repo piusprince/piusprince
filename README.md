@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 ### Hello World 👋
-I am Pius Prince, a frontend web developer from Ghana aiming to become a fullstack developer in the near future
-- 🔭 I am currently working on frontend projects and hopefully would be able to make fullstack applications in the future.
+I am Pius Prince, a frontend web developer from Ghana aiming to become a fullstack developer in the near future.
+- 🔭 I am currently working on frontend projects.
 
 <br>
 ## Connect with me
