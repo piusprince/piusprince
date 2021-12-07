@@ -20,9 +20,10 @@ I am Pius Prince, a frontend web developer from Ghana aiming to become a fullsta
 
 <br>
 ## Connect with me
-<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />[(https://www.linkedin.com/in/pius-prince-oduro-92156b1b4)]
-<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-[(https://https://twitter.com/R3V3R53_R34P3R)]
+
+<a href="https://https://twitter.com/R3V3R53_R34P3R" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pius-prince-oduro-92156b1b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin profile" height="30" width="40" /></a>
+</p>
 <br>
 <br>
 
@@ -34,6 +35,8 @@ I am Pius Prince, a frontend web developer from Ghana aiming to become a fullsta
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+
+<br>
 
 ![Pius' GitHub stats](https://github-readme-stats.vercel.app/api?username=piusprince&show_icons=true&theme=tokyonight)
 
