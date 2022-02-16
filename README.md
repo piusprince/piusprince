@@ -19,9 +19,10 @@ I am Pius Prince, a frontend web developer from Ghana aiming to become a fullsta
 - 🔭 I am currently working on frontend projects.
 
 <br>
+<br>
 ## Connect with me
 
-<a href="https://https://twitter.com/R3V3R53_R34P3R" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter profile" height="30" width="40" /></a>
+<a href="https://https://twitter.com/PiusOPrince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter profile" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pius-prince-oduro-92156b1b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin profile" height="30" width="40" /></a>
 </p>
 <br>
