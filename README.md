@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 -->
 
 ### Hello World 👋
-I am Pius Prince, a frontend web developer from Ghana aiming to become a fullstack developer in the near future.
+I am Pius Prince, a frontend web developer from Ghana.
 - 🔭 I am currently working on frontend projects.
+- 🌱 I’m currently learning Solidity, threejs.
+- 👯 I’m looking to collaborate on frontend projects as well as full stack applications
+
 
 <br>
 <br>
