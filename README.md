@@ -19,7 +19,7 @@ I am Pius Prince, a frontend web developer from Ghana.
 - 🔭 I am currently working on frontend projects.
 - 🌱 I’m currently learning Solidity, TypeScript and backend technologies.
 - 👯 I’m looking to collaborate on frontend projects as well as full stack applications.
-
+[My Website](https://pius-prince-portfolio.netlify.app/)
 
 <br>
 <br>
