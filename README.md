@@ -27,6 +27,8 @@ I am Pius Prince, a frontend web developer from Ghana.
 <br>
 <br>
 
+## You can reach out to me on these platforms
+
 
 <a href="https://https://twitter.com/PiusOPrince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter profile" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pius-prince-oduro-92156b1b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin profile" height="30" width="40" /></a>
