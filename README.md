@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hello World 👋
 I am Pius Prince, a frontend web developer from Ghana.
 - 🔭 I am currently working on frontend projects.
-- 🌱 I’m currently learning C#, Nextjs, TypeScript and Vue.
+- 🌱 I’m currently learning and making use of Nextjs and Storyblok CMS.
 - 👯 I’m looking to collaborate on frontend projects as well as full stack applications.
 
 ## Check my portfolio out
